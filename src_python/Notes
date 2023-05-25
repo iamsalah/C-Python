@@ -1,0 +1,8 @@
+Classe principale : ApplicationUniversite
+Classes : Etudiant, Professeur, Cours, Departement, Universite
+La classe ApplicationUniversite servirait de point d'entrée avec des méthodes pour lancer, utiliser et quitter l'application.
+Chaque classe aurait un constructeur avec des paramètres pour initialiser les attributs nécessaires.
+Les attributs de classe pourraient inclure le nom de l'université, le nom de l'application, etc.
+Les attributs d'instance pourraient être le nom, le prénom, l'âge, etc.
+Les méthodes pourraient inclure des méthodes set/get, des méthodes pour inscrire un étudiant à un cours, assigner un professeur à un département, etc.
+Vous pouvez utiliser des conditions et des boucles pour modifier les attributs d'instance et instancier plusieurs objets pour chaque classe.
